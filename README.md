@@ -7,7 +7,7 @@
 
 ### Hi there! I'm **Brian Aryansyah Pamungkas**
 
-<img src="https://readme-typing-svg.demolab.com?font=Verdana&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Computer+Science+Student;Frontend+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Verdana&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Computer+Science+Student;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=separator" width="100%"/>
 
