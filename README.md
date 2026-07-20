@@ -7,7 +7,7 @@
 
 ### Hi there! I'm **Brian Aryansyah Pamungkas**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Computer+Science+Student;Frontend+Enthusiast;Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Computer+Science+Student;Frontend+Enthusiast;Lifelong+Learner)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=separator" width="100%"/>
 
@@ -17,7 +17,7 @@
 
 ## About Me
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/snake-output/snake.svg" width="100%"/>
 
 My name is Brian Aryansyah Pamungkas, a 4th Semester Informatics student at Universitas Dian Nuswantoro (UDINUS). Passionate about turning ideas into reality through code, with a strong focus on Web Development and Software Engineering. Currently sharpening skills in Frontend Development and UI/UX Design to craft clean, user-friendly digital experiences. Always open to collaboration, new challenges, and expanding knowledge in the ever-evolving tech world. Strongly believes that every line of code is a new way of thinking to solve problems.
 
@@ -39,7 +39,7 @@ My name is Brian Aryansyah Pamungkas, a 4th Semester Informatics student at Univ
 
 <div align="center">
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianaryansyah&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianaryansyah&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
 
@@ -47,13 +47,15 @@ My name is Brian Aryansyah Pamungkas, a 4th Semester Informatics student at Univ
 
 ## Activity Graph
 
-<p align="center">
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/pacman-output/pacman-contribution-graph.svg">
 </picture>
-</p>
+
+</div>
 
 ---
 
