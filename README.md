@@ -35,11 +35,11 @@ My name is Brian Aryansyah Pamungkas, a 4th Semester Informatics student at Univ
 
 ---
 
-## Top Languages
+## GitHub Streak
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianaryansyah&layout=compact&theme=radical&hide_border=true&langs_count=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brianaryansyah&theme=radical&hide_border=true)](https://streak-stats.demolab.com)
 
 </div>
 
