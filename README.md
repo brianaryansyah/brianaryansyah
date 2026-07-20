@@ -7,7 +7,7 @@
 
 ### Hi there! I'm **Brian Aryansyah Pamungkas**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Computer+Science+Student;Frontend+Enthusiast;Lifelong+Learner)
+<img src="https://readme-typing-svg.demolab.com?font=Verdana&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Computer+Science+Student;Frontend+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=separator" width="100%"/>
 
@@ -35,52 +35,20 @@ My name is Brian Aryansyah Pamungkas, a 4th Semester Informatics student at Univ
 
 ---
 
-## GitHub Streak
+## Let's Connect
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=brianaryansyah&theme=radical&hide_border=true)](https://streak-stats.demolab.com)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/brianaryansyah_)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/brianaryansyah)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/brianaryansyah)
 
 </div>
 
 ---
 
-## Activity Graph
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://instagram.com/brianaryansyah_">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/brianaryansyah">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/brianaryansyah">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
