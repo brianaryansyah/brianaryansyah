@@ -49,7 +49,7 @@ My name is **Brian Aryansyah Pamungkas**, a 4th Semester Informatics student at 
   <img src="https://skillicons.dev/icons?i=php,python,js,c,cpp&theme=dark" alt="Languages" />
 
   ### AI & Machine Learning
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas&theme=dark" alt="AI ML" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI ML" />
 
   ### Frontend & Design
   <img src="https://skillicons.dev/icons?i=html,css,figma,react&theme=dark" alt="Frontend" />
