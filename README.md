@@ -28,7 +28,11 @@
 ## 👨‍💻 About
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/snake-output/snake.svg" alt="Contribution Snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/snake-output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/snake-output/snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/snake-output/snake.svg" width="100%" />
+  </picture>
 </div>
 
 My name is **Brian Aryansyah Pamungkas**, a 4th Semester Informatics student at **Universitas Dian Nuswantoro (UDINUS)**. Passionate about turning ideas into reality through code, with a strong focus on **Web Development**, **Software Engineering**, and currently diving deep into **Artificial Intelligence**, **Machine Learning**, and **Deep Learning** especially **Computer Vision**. Always open to collaboration, new challenges, and expanding knowledge in the ever-evolving tech world. Strongly believes that every line of code is a new way of thinking to solve problems.
