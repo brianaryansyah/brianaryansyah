@@ -18,7 +18,6 @@
   
   <br />
   
-  <img src="https://komarev.com/ghpvc/?username=brianaryansyah&label=Profile+Views&color=2ECC71&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/brianaryansyah?label=Followers&style=flat-square&color=27AE60" alt="Followers" />
   <img src="https://img.shields.io/github/stars/brianaryansyah?style=flat-square&color=2ECC71" alt="Stars" />
 </div>
@@ -28,11 +27,7 @@
 ## 👨‍💻 About
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/snake-output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/snake-output/snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/snake-output/snake.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/brianaryansyah/brianaryansyah/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 My name is **Brian Aryansyah Pamungkas**, a 4th Semester Informatics student at **Universitas Dian Nuswantoro (UDINUS)**. Passionate about turning ideas into reality through code, with a strong focus on **Web Development**, **Software Engineering**, and currently diving deep into **Artificial Intelligence**, **Machine Learning**, and **Deep Learning** especially **Computer Vision**. Always open to collaboration, new challenges, and expanding knowledge in the ever-evolving tech world. Strongly believes that every line of code is a new way of thinking to solve problems.
@@ -93,14 +88,6 @@ My name is **Brian Aryansyah Pamungkas**, a 4th Semester Informatics student at 
 | 🔍 | **Exploring** — TensorFlow, PyTorch, OpenCV, Object Detection, Image Classification |
 | 🤝 | **Open To** — AI/ML Learning Projects, Collaboration & New Challenges |
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brianaryansyah&theme=algolia&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
