@@ -1,21 +1,5 @@
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-
-<style>
-  * { font-family: 'Poppins', sans-serif; }
-  @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
-  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.7; } }
-  @keyframes slideIn { from { opacity: 0; transform: translateX(-30px); } to { opacity: 1; transform: translateX(0); } }
-  @keyframes glow { 0%, 100% { filter: drop-shadow(0 0 5px #2ECC71); } 50% { filter: drop-shadow(0 0 20px #2ECC71); } }
-  .float { animation: float 3s ease-in-out infinite; }
-  .pulse { animation: pulse 2s ease-in-out infinite; }
-  .glow { animation: glow 2s ease-in-out infinite; }
-  .slide-in { animation: slideIn 0.6s ease-out forwards; }
-  .skill-card { transition: all 0.3s ease; }
-  .skill-card:hover { transform: scale(1.05); filter: drop-shadow(0 0 10px #2ECC71); }
-</style>
-
 <div align="center">
-  <img class="glow" src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=250&section=header&text=Brian%20Aryansyah%20Pamungkas&fontSize=50&animation=fadeIn&fontAlignY=30&desc=Computer%20Science%20Student%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=65&descAlign=62" width="100%" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=250&section=header&text=Brian%20Aryansyah%20Pamungkas&fontSize=50&animation=fadeIn&fontAlignY=30&desc=Computer%20Science%20Student%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=65&descAlign=62" width="100%" alt="Header Wave" />
   
   <br />
   
@@ -23,18 +7,17 @@
   
   <br />
 
-  <img class="float" src="https://img.shields.io/badge/Informatics_Student-UDINUS-2ECC71?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
-  <img class="float" src="https://img.shields.io/badge/Location-Indonesia-27AE60?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Informatics_Student-UDINUS-2ECC71?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-27AE60?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
   
   <br />
   
-  <a href="https://github.com/brianaryansyah"><img class="skill-card" src="https://img.shields.io/badge/GitHub-Follow-1a1a2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/brianaryansyah"><img class="skill-card" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/brianaryansyah_"><img class="skill-card" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/brianaryansyah"><img src="https://img.shields.io/badge/GitHub-Follow-1a1a2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/brianaryansyah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/brianaryansyah_"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   
   <br />
   
-  <img src="https://komarev.com/ghpvc/?username=brianaryansyah&label=Profile%20Views&color=2ECC71&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/brianaryansyah?label=Followers&style=flat-square&color=27AE60" alt="Followers" />
   <img src="https://img.shields.io/github/stars/brianaryansyah?style=flat-square&color=2ECC71" alt="Stars" />
 </div>
@@ -63,16 +46,16 @@ My name is **Brian Aryansyah Pamungkas**, a 4th Semester Informatics student at 
 <div align="center">
 
   ### Languages
-  <img class="skill-card" src="https://skillicons.dev/icons?i=php,python,js,c,cpp&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=php,python,js,c,cpp&theme=dark" alt="Languages" />
 
   ### AI & Machine Learning
-  <img class="skill-card" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,jupyter&theme=dark" alt="AI ML" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,scikit-learn&theme=dark" alt="AI ML" />
 
   ### Frontend & Design
-  <img class="skill-card" src="https://skillicons.dev/icons?i=html,css,figma,react&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma,react&theme=dark" alt="Frontend" />
 
   ### Tools & Others
-  <img class="skill-card" src="https://skillicons.dev/icons?i=git,vscode,linux,github&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,github&theme=dark" alt="Tools" />
 
 </div>
 
@@ -120,9 +103,9 @@ My name is **Brian Aryansyah Pamungkas**, a 4th Semester Informatics student at 
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://instagram.com/brianaryansyah_"><img class="skill-card" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/brianaryansyah"><img class="skill-card" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/brianaryansyah"><img class="skill-card" src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://instagram.com/brianaryansyah_"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/brianaryansyah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/brianaryansyah"><img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
