@@ -18,6 +18,7 @@
   
   <br />
   
+  <img src="https://komarev.com/ghpvc/?username=brianaryansyah&label=Profile+Views&color=2ECC71&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/brianaryansyah?label=Followers&style=flat-square&color=27AE60" alt="Followers" />
   <img src="https://img.shields.io/github/stars/brianaryansyah?style=flat-square&color=2ECC71" alt="Stars" />
 </div>
