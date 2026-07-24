@@ -49,7 +49,7 @@ My name is **Brian Aryansyah Pamungkas**, a 4th Semester Informatics student at 
   <img src="https://skillicons.dev/icons?i=php,python,js,c,cpp&theme=dark" alt="Languages" />
 
   ### AI & Machine Learning
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,scikit-learn&theme=dark" alt="AI ML" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas&theme=dark" alt="AI ML" />
 
   ### Frontend & Design
   <img src="https://skillicons.dev/icons?i=html,css,figma,react&theme=dark" alt="Frontend" />
@@ -67,7 +67,7 @@ My name is **Brian Aryansyah Pamungkas**, a 4th Semester Informatics student at 
 
 | Languages | AI & Machine Learning |
 |:---------:|:---------------------:|
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 
 | Frontend & Design | Tools |
 |:-----------------:|:-----:|
