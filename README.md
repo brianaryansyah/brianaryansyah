@@ -93,6 +93,14 @@ My name is **Brian Aryansyah Pamungkas**, a 4th Semester Informatics student at 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brianaryansyah&theme=algolia&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
